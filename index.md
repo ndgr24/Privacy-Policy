@@ -1,5 +1,4 @@
-###Privacy Policy
-
+Privacy Policy
 
 NatoPotato Studios built the Triangle Trauma app as a Free app. This SERVICE is provided by NatoPotato Studios at no cost and is intended for use as is.
 
@@ -17,7 +16,8 @@ The app does use third party services that may collect information used to ident
 
 Link to privacy policy of third party service providers used by the app
 
-Unity
+https://unity3d.com/legal/privacy-policy
+
 Log Data
 
 we want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
